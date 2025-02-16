@@ -2,6 +2,12 @@
 
 This repository contains coursework for **TDS3851 Machine Learning**, including **Lab Enhancements** and a **Project**. Each folder contains Jupyter Notebooks with code, analysis, and explanations. Inside each folder, there is a **README.md** with a deeper description of its contents.
 
+## Members
+- Liau Kai Ze 1211102809 25%
+- Ter Zheng Bin 1211103705 25%
+- Leong Jia Yi 1211101506 25%
+- Lai Cheng Yung 1211102810 25%
+
 ## Repository Structure
 
 ### 1_LabEnhancements_KMeans
