@@ -17,5 +17,7 @@ This lab applies **K-Means Clustering** to an **e-commerce dataset**, with prepr
 ## Files:
 - `Lab_KMeans.ipynb` – Full implementation.
 - `README.md` – Overview of enhancements.
+- 'ecommerce_product_dataset' -dataset
+- 'ecommerce_product_dataset2' - dataset2
 
-More details are available in the Jupyter Notebook.
+For more details, please refer to the Jupyter Notebook.
