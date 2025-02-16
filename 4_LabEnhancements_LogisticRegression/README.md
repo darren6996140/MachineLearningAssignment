@@ -11,6 +11,6 @@ This lab expands on **Logistic Regression**, a key classification algorithm, by 
 ## Files:
 - `4_Lab_LogisticRegression.ipynb` – Full implementation with explanations.
 - `README.md` – Overview of the lab.
-- All relevant datasets
+- All relevant datasets.
 
 For full details, check the Jupyter Notebook!
