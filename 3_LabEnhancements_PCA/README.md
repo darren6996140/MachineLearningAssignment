@@ -9,7 +9,7 @@ This lab explores **Principal Component Analysis (PCA)** to simplify complex dat
 - **Comparison** – Analyzing model performance before and after PCA.  
 
 ## Files:
-- `Lab_PCA.ipynb` – Complete implementation and analysis.  
-- `README.md` – Quick overview of the lab.  
+- `3_LabEnhancements_PCA.ipynb`: Jupyter Notebook with full implementation.
+- `README.md`: Overview of the lab.
 
-Check the Jupyter Notebook for full details!
+A **detailed explanation** is available inside the Jupyter Notebook.
