@@ -1,6 +1,6 @@
 # Machine Learning Assignment
 
-This repository contains coursework for **TDS3851 Machine Learning**, including **Lab Enhancements** and a **Project**. Each folder contains Jupyter Notebooks with code, analysis, and explanations. Inside each folder, there is a **README.md** with a deeper description of its contents.
+This repository contains coursework for **CDS6354 Machine Learning**, including **Lab Enhancements** and a **Project**. Each folder contains Jupyter Notebooks with code, analysis, and explanations. Inside each folder, there is a **README.md** with a deeper description of its contents.
 
 ## Repository Structure
 
