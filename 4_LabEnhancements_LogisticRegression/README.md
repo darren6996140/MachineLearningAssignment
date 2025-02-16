@@ -9,7 +9,7 @@ This lab expands on **Logistic Regression**, a key classification algorithm, by 
 - **Comparison** – Evaluating Logistic Regression against other classification models.
 
 ## Files:
-- `Lab_LogisticRegression.ipynb` – Full implementation with explanations.
+- `4_Lab_LogisticRegression.ipynb` – Full implementation with explanations.
 - `README.md` – Overview of the lab.
 
 For full details, check the Jupyter Notebook!
