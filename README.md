@@ -23,3 +23,4 @@ This repository contains coursework for **TDS3851 Machine Learning**, including 
 Each folder has its own **README.md** with a deeper explanation of its content. Please explore the repository for more details.
 
 ---
+📺 YouTube Video Presentation: [[Insert Link Here]](https://youtu.be/InPsMO1UJmg)
