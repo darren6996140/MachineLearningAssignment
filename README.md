@@ -20,7 +20,7 @@ This repository contains coursework for **CDS6354 Machine Learning**, including 
 - Implementation and enhancement of **Principal Component Analysis (PCA)**, including dimensionality reduction techniques.
 
 ### 4_LabEnhancements_LogisticRegression
-- Advanced insights on **Logistic Regression**, including comparisons with other classification models.
+- Advanced insights on **Logistic Regression**, including comparisons with other relevant datasets.
 
 ### 5_Project
 - The **Public Transportation Ridership Prediction** project, which includes dataset analysis, machine learning modeling, and forecasting.
