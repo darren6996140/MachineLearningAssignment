@@ -6,10 +6,11 @@ This lab expands on **Logistic Regression**, a key classification algorithm, by 
 - **Data Preprocessing** – Handling missing values, feature scaling, and encoding categorical data.
 - **Model Building** – Implementing Logistic Regression for classification tasks.
 - **Performance Evaluation** – Using accuracy, precision, recall, and confusion matrix.
-- **Comparison** – Evaluating Logistic Regression against other classification models.
+- **Comparison** – Evaluating Logistic Regression against other similar datasets.
 
 ## Files:
 - `4_Lab_LogisticRegression.ipynb` – Full implementation with explanations.
 - `README.md` – Overview of the lab.
+- All relevant datasets
 
 For full details, check the Jupyter Notebook!
